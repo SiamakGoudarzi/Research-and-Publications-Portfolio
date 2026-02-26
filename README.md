@@ -55,7 +55,7 @@ Welcome to my comprehensive research repository. This collection showcases my ac
 
 ---
 
-## 🛠 Technical Skills Highlight
+## Technical Skills Highlight
 * **Computational Finance:** Portfolio Optimization, Risk Management, MVS Models.
 * **Machine Learning:** Neural Networks (SOM), K-means Clustering, Genetic Algorithms.
 * **Cloud & Architecture:** Cloud Infrastructure (CRMaaS), SaaS, Service-Oriented Architecture (SOA).
